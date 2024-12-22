@@ -1,0 +1,9 @@
+[libraries]
+# Needed
+kff = { module = "thedarkcolour:kotlinforforge-neoforge", version.ref = "kff" }
+# Local
+embeddium = { module = "maven.modrinth:embeddium", version.ref = "embeddium" }
+
+[versions]
+kff = "5.7.0"
+embeddium = "1.0.11+mc1.21.1"
